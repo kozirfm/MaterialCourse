@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MaterialCourse</string>
+    <string name="material">Материальный дизайн</string>
+    <string name="dialog">Диалог</string>
+    <string name="dialog_message">Текс для ознакомления</string>
 </resources>
