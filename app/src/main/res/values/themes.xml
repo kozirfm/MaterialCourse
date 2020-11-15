@@ -15,7 +15,8 @@
     </style>
 
     <style name="ButtonStyle" parent="Widget.MaterialComponents.Button">
-        <item name="android:backgroundTint">@drawable/button_background</item>
+        <item name="android:backgroundTint">@drawable/button_background_tint</item>
+        <item name="android:textColor">@drawable/button_text_color</item>
     </style>
 
     <style name="DialogStyle">
